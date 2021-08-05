@@ -1,11 +1,3 @@
-<p align="center"> 
-	<b><a href="#task">Project Overview</a></b>
-	|
-	<b><a href="#installation">Installation Instructions</a></b>
-	| 
->	
-</p>
-
 <h2>How to Run</h2>
 
 
